@@ -1,0 +1,7 @@
+/.bundle
+/db/*.sqlite3
+/db/*.sqlite3-journal
+/log/*.log
+/tmp
+/lib/assets/bower_components/
+/log
